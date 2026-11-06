@@ -1,0 +1,210 @@
+{
+  "type": "pages",
+  "background": "https://ваш-сайт/background.jpg",
+  "template": {
+    "type": "separate",
+    "color": "transparent"
+  },
+  "items": [
+    {
+      "type": "space",
+      "layout": "4.5,0,3,2",
+      "image": "https://ваш-сайт/logo-vertical.png"
+    },
+    {
+      "id": "drm-play",
+      "layout": "1.3687,2.35,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/drm-play.png",
+      "action": "link:https://drm-play.ru"
+    },
+    {
+      "id": "drm-play-label",
+      "type": "space",
+      "layout": "1.075,3.25,1.6,0.27",
+      "label": "DRM-PLAY",
+      "centration": "text"
+    },
+    {
+      "id": "ott-play",
+      "layout": "3.0188,2.35,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/ott-play.png",
+      "action": "link:https://ott-play.com"
+    },
+    {
+      "id": "ott-play-label",
+      "type": "space",
+      "layout": "2.725,3.25,1.6,0.27",
+      "label": "OTT-PLAY",
+      "centration": "text"
+    },
+    {
+      "id": "ott-play-foss",
+      "layout": "4.6688,2.35,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/ott-play-foss.png",
+      "action": "link:https://ottp.eu.org/f/"
+    },
+    {
+      "id": "ott-play-foss-label",
+      "type": "space",
+      "layout": "4.375,3.25,1.6,0.27",
+      "label": "OTT-PLAY Foss",
+      "centration": "text"
+    },
+    {
+      "id": "zona",
+      "layout": "6.3188,2.35,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/zona.png",
+      "action": "link:https://zona.msxplayer.ru"
+    },
+    {
+      "id": "zona-label",
+      "type": "space",
+      "layout": "6.025,3.25,1.6,0.27",
+      "label": "ZONA",
+      "centration": "text"
+    },
+    {
+      "id": "youtube-kids",
+      "layout": "7.9688,2.35,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/youtube-kids.png",
+      "action": "link:https://www.youtubekids.com"
+    },
+    {
+      "id": "youtube-kids-label",
+      "type": "space",
+      "layout": "7.675,3.25,1.6,0.27",
+      "label": "YouTube Kids",
+      "centration": "text"
+    },
+    {
+      "id": "lampa",
+      "layout": "9.6188,2.35,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/lampa.png",
+      "action": "link:https://lampa.mx"
+    },
+    {
+      "id": "lampa-label",
+      "type": "space",
+      "layout": "9.325,3.25,1.6,0.27",
+      "label": "LAMPA",
+      "centration": "text"
+    },
+    {
+      "id": "atodo",
+      "layout": "1.3687,3.54,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/atodo.png",
+      "action": "link:https://atodo.site"
+    },
+    {
+      "id": "atodo-label",
+      "type": "space",
+      "layout": "1.075,4.44,1.6,0.27",
+      "label": "ATODO",
+      "centration": "text"
+    },
+    {
+      "id": "gets-tv",
+      "layout": "3.0188,3.54,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/gets-tv.png",
+      "action": "link:https://ссылка-на-сервис"
+    },
+    {
+      "id": "gets-tv-label",
+      "type": "space",
+      "layout": "2.725,4.44,1.6,0.27",
+      "label": "GetsTV",
+      "centration": "text"
+    },
+    {
+      "id": "rings-play",
+      "layout": "4.6688,3.54,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/rings-play.png",
+      "action": "link:https://ссылка-на-сервис"
+    },
+    {
+      "id": "rings-play-label",
+      "type": "space",
+      "layout": "4.375,4.44,1.6,0.27",
+      "label": "Приложение 9",
+      "centration": "text"
+    },
+    {
+      "id": "youtube",
+      "layout": "6.3188,3.54,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/youtube.png",
+      "action": "link:https://www.youtube.com/tv"
+    },
+    {
+      "id": "youtube-label",
+      "type": "space",
+      "layout": "6.025,4.44,1.6,0.27",
+      "label": "YouTube",
+      "centration": "text"
+    },
+    {
+      "id": "d-reel",
+      "layout": "7.9688,3.54,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/d-reel.png",
+      "action": "link:https://ссылка-на-сервис"
+    },
+    {
+      "id": "d-reel-label",
+      "type": "space",
+      "layout": "7.675,4.44,1.6,0.27",
+      "label": "Приложение 11",
+      "centration": "text"
+    },
+    {
+      "id": "f-letter",
+      "layout": "9.6188,3.54,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/f-letter.png",
+      "action": "link:https://ссылка-на-сервис"
+    },
+    {
+      "id": "f-letter-label",
+      "type": "space",
+      "layout": "9.325,4.44,1.6,0.27",
+      "label": "Приложение 12",
+      "centration": "text"
+    },
+    {
+      "id": "ott-player",
+      "layout": "1.3687,4.73,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/ott-player.png",
+      "action": "link:https://ссылка-на-сервис"
+    },
+    {
+      "id": "ott-player-label",
+      "type": "space",
+      "layout": "1.075,5.63,1.6,0.27",
+      "label": "OTT Player",
+      "centration": "text"
+    },
+    {
+      "id": "akter-black",
+      "layout": "3.0188,4.73,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/akter-black.png",
+      "action": "link:https://ссылка-на-сервис"
+    },
+    {
+      "id": "akter-black-label",
+      "type": "space",
+      "layout": "2.725,5.63,1.6,0.27",
+      "label": "AKTER.BLACK",
+      "centration": "text"
+    },
+    {
+      "id": "lampa-lite",
+      "layout": "4.6688,4.73,1.0125,0.9",
+      "image": "https://ваш-сайт/icons/lampa-lite.png",
+      "action": "link:https://ссылка-на-сервис"
+    },
+    {
+      "id": "lampa-lite-label",
+      "type": "space",
+      "layout": "4.375,5.63,1.6,0.27",
+      "label": "LAMPA LITE",
+      "centration": "text"
+    }
+  ]
+}
